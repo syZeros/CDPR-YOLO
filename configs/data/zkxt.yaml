@@ -1,0 +1,16 @@
+# Download the dataset separately; see docs/DATASETS.md.
+# Change this path if your data live elsewhere.
+path: datasets/zkxt
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: A220
+  1: A320/321
+  2: A330
+  3: ARJ21
+  4: Boeing737-800
+  5: Boeing787
+  6: other
+

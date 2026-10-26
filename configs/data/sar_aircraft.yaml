@@ -1,0 +1,16 @@
+# SAR-AIRcraft-1.0 reproduction split used by the verified training run.
+# Place the dataset directory at the Ultralytics datasets root as `SAR_YOLO`,
+# or replace this value with the absolute path to your downloaded dataset.
+path: SAR_YOLO
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: A220
+  1: A320/321
+  2: A330
+  3: ARJ21
+  4: Boeing737
+  5: Boeing787
+  6: other

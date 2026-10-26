@@ -1,0 +1,10 @@
+# Download the dataset separately; see docs/DATASETS.md.
+# Change this path if your data live elsewhere.
+path: datasets/sadd
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: aircraft
+
