@@ -1,0 +1,16 @@
+CDPR-YOLO
+Copyright (c) 2026 CDPR-YOLO contributors.
+
+This repository is a modified distribution of Ultralytics YOLO 8.4.19.
+Upstream: https://github.com/ultralytics/ultralytics
+
+Ultralytics YOLO and this modified distribution are licensed under the
+GNU Affero General Public License, version 3. See LICENSE.
+
+The LCAD design is inspired by LSNet and the GPA/SMA branches are adapted
+from LWGANet, as acknowledged in the accompanying manuscript. Their
+research attribution is retained separately from project naming.
+
+Dataset images/annotations and model checkpoints are not part of this
+source distribution. See docs/DATASETS.md and docs/MODEL_ZOO.md.
+

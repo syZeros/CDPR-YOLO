@@ -1,0 +1,4 @@
+# Reproduction uses Python 3.10.14 and the pinned CUDA 12.1 stack.
+# See environment.yml; install this file from the repository root.
+-r requirements-reproduce.txt
+-e .

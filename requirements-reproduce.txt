@@ -1,0 +1,15 @@
+# Exact versions observed in the confirmed yolov11 reproduction environment.
+# The CUDA wheels below target Linux x86_64 with a compatible NVIDIA driver.
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.4.1+cu121
+torchvision==0.19.1+cu121
+nvidia-cudnn-cu12==9.1.0.70
+numpy==1.26.3
+opencv-python==4.10.0.84
+pillow==12.2.0
+matplotlib==3.9.2
+pyyaml==6.0.2
+scipy==1.14.1
+polars==1.40.1
+ultralytics-thop==2.0.19
+psutil==6.0.0
